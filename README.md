@@ -1,1 +1,5 @@
 # studyGit
+
+## init
+
+## push & pull
