@@ -12,7 +12,7 @@
   1. master에서 version1 파일을 만든다.
   2. sourceTree에서 click the new branch button.
 
-## 3.4. merge error 해결
+## 2.3. merge error 해결
 * 중복되는 영역에서 ver1과 ver2가 수정했을 때, merge하면 conflict 발생
   1. 해당 파일 열고, 직접 정리한다.
   2. sourceTree의 History 영역에 conflict난 파일이 표시되는데,
