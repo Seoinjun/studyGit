@@ -1,5 +1,5 @@
 
-# Branch
+# Branch: 가지치기
 
 ## introduction
 * version1에서 version2를 복사해서, 실험하는 상황
