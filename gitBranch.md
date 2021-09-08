@@ -13,7 +13,9 @@
   2. sourceTree에서 click the new branch button.
 
 ## 2.3. Merge branch
-  1. ver1과 ver2
+  1. ver1과 ver2를 병합하는 상황을 가정하자.
+  2. ver1에 ver2의 내용을 추가한다.
+  3. ver1 안으로 들어간 후, ver2의 오른쪽 버튼 클릭 > merge ver2 into ... 
   
 ## 2.4. merge error 해결
 * 중복되는 영역에서 ver1과 ver2가 수정했을 때, merge하면 conflict 발생
