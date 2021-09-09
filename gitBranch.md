@@ -22,3 +22,7 @@
   1. 해당 파일 열고, 직접 정리한다.
   2. sourceTree의 History 영역에 conflict난 파일이 표시되는데,
   3. 해당 파일의 오른쪽 클릭 > resolve conflict > Mark resolveed 
+
+
+## Experiment
+* 
